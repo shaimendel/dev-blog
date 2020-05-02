@@ -1,6 +1,6 @@
 # Creating my open source dev blog
 
-This is a test
+This is a test blog
 
 <br>
 
