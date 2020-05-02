@@ -69,11 +69,6 @@
       "name": "zoomOnFormula",
       "filename": "/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js",
       "hash": "O14Fc05tKzw4OOXWC2MUwQ=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "KT59Xdpq5M7QX566vJrL/Q=="
     }
   ],
   "components": [

@@ -13,7 +13,6 @@ import { smoothLoading } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/n
 import { tocHighlight } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { zoomOnFormula } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js';zoomOnFormula();
-import { reloadOnChange } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { ToCPrevNext } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { ToCToggle } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
