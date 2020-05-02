@@ -9,5 +9,5 @@ export const config = /*#__PURE__*/configuration({
     title: {
       base: 'Shai Mendel\'s Dev Blog'                    // --> the base title of your doc pages
     },
-  },
+  }
 });
