@@ -1,5 +1,7 @@
 # Shai Mendel's Dev Blog
 
+![me](/docs/assets/me.jpeg)
+
 Hi all!
 I am Shai :)
 
