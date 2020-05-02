@@ -1,4 +1,4 @@
-# Shai Mendel's Dev Blog
+# About me
 
 ![me](/docs/assets/me.jpeg)
 
