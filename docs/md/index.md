@@ -7,6 +7,8 @@
 Hi all!
 I am Shai :)
 
+Welcome to my open-source blog!
+
 I have worked in various engineering positions throughout the last 10 years:<br>
 - spent all of my professional years in the info sec and cyber industries
 - in the last 3 years I am an engineering team lead
