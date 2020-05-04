@@ -23,7 +23,14 @@ export const config = /*#__PURE__*/configuration({
       gtag('config', 'UA-165412736-1');
       `}</script>,
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165412736-1"></script>
-    ]
+    ],
+    meta: {
+      subject: 'Shai Mendel\'s Dev Blog',
+      description: 'Sharing my engineering journey, join the ride!',
+      keywords: ['shai', 'mendel', 'dev', 'blog', 'engineering', 'programming'],
+      themeColor: '#212121',                      // @see [Google's docs](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
+      appleMobileWebStatusBarStyle: 'black-translucent'             // @see [Apple's docs](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html)
+    },
   },
   dest: {
     namespace: '/dev-blog',
