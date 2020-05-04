@@ -16,5 +16,24 @@
   "bugs": {
     "url": "https://github.com/shaimendel/dev-blog/issues"
   },
-  "homepage": "https://github.com/shaimendel/dev-blog#readme"
+  "homepage": "https://github.com/shaimendel/dev-blog#readme",
+  "devDependencies": {
+    "@semantic-release/github": "^7.0.5"
+  },
+  "release": {
+		"branches": "master",
+		"verifyConditions": [
+			"@semantic-release/github"
+		],
+		"publish": [
+			"@semantic-release/github"
+		],
+		"success": [
+			"@semantic-release/github"
+		],
+		"fail": [
+			"@semantic-release/github"
+		]
+	},
+	"private": true
 }
