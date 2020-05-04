@@ -1,5 +1,7 @@
 # About me
 
+> :ToCPrevNext
+
 ![me](/docs/assets/me.jpeg)
 
 Hi all!
@@ -12,5 +14,3 @@ I have worked in various engineering positions throughout the last 10 years:<br>
 Currently working as an engineering team lead in [Snyk](https://snyk.io).
 
 When I am not coding you can probably find me playing the piano, running in the streets or just having some "quality" Netflix time.
-
-> :ToCPrevNext
