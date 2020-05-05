@@ -32,7 +32,4 @@ export const config = /*#__PURE__*/configuration({
       appleMobileWebStatusBarStyle: 'black-translucent'             // @see [Apple's docs](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html)
     },
   },
-  dest: {
-    namespace: '/dev-blog',
-  },
 });
