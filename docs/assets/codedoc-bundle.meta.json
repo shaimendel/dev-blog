@@ -78,6 +78,11 @@
       "hash": "Kz56usGvUir5vGH25FSgIg=="
     },
     {
+      "name": "CollapseControl",
+      "filename": "/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "JMhWNSfSB9E1l6NXvdoelw=="
+    },
+    {
       "name": "ToCToggle",
       "filename": "/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
       "hash": "WLp20ewV9EhTAmlEtEeBUg=="

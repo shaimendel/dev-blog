@@ -14,12 +14,14 @@ import { tocHighlight } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/no
 import { postNavSearch } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { zoomOnFormula } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js';zoomOnFormula();
 import { ToCPrevNext } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
+import { CollapseControl } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 import { ToCToggle } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/Users/shai/Projects/Personal/dev-blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
 
 const components = {
   'Kz56usGvUir5vGH25FSgIg==': ToCPrevNext,
+  'JMhWNSfSB9E1l6NXvdoelw==': CollapseControl,
   'WLp20ewV9EhTAmlEtEeBUg==': ToCToggle,
   'vV2TZ7ObEJ0zKdi4pFyFKA==': DarkModeSwitch,
   'JXlXio8jLHjW37AbgpZCnw==': ConfigTransport
