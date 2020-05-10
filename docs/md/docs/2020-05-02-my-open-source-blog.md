@@ -6,7 +6,7 @@ In this blog post, I explain why I chose to create my dev blog in a fully open s
 I planned creating my own developer blog for a while but wasn't satisfied with the common setups normally chosen.
 As an engineer, I preferred to treat my blog as yet another software project and therefore had the following requirements:
 * manage everything (really, everything) in a single place - GitHub
-* the blog management intefrace should be done solely using git:
+* the blog management interface should be done solely using git:
   * git pull = get the latest version of the blog
   * merge to master = publish a new version of the website
 * be able to run the blog locally and see how it looks before publishing
@@ -51,8 +51,8 @@ Feel free to see all of the [blog's releases](https://github.com/shaimendel/dev-
 This open source approach supplies some decent advantages, here are a few:
 
 ### Ease Of Management
-This approach makes the website developement cycle a regular software developement cycle, making it super easy to maintain:
-* local developement in a code editor (for writing Markdown files and edit package.json mostly)
+This approach makes the website development cycle a regular software development cycle, making it super easy to maintain:
+* local development in a code editor (for writing Markdown files and edit package.json mostly)
 * local debugging using `codedoc serve` -> I put it as my `npm start` command
 * build the website using `codedoc build` -> I put it as my `npm run build` command
 * merge code to master in order to deploy
