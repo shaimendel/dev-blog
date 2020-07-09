@@ -1,4 +1,5 @@
 [Home](/)
+[The Last (Engineering) Dance](/docs/2020-07-09-last-dance)
 [Creating my open source dev blog](/docs/2020-05-02-my-open-source-blog)
 
 > :Collapse label=External articles, default=open
