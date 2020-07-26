@@ -50,7 +50,7 @@ So even though the results were good, they were not great. Remember all the conc
 Phil was hard to process for the team, he arrived with a completely different approach which turned upside down the way the team behaved so far. <br>
 The discussions and plans moved from "what can we do to make Michael Jordan score?" to "what can we do to win in the long term?". This is a huge difference that made the real change in the group. <br>
 Phil put emphasis on team building, made everyone focused on the target of winning and to rely on each other. "There is no I in team". <br>
-Phil was a true inclusive leader, fostering collaboration (reducing the [bus factor](https://en.wikipedia.org/wiki/Bus_factor) and not necessarily hiring new team members for their resume but their ability to complement the team.<br><br>
+Phil was a true inclusive leader, fostering collaboration (reducing the [bus factor](https://en.wikipedia.org/wiki/Bus_factor)) and not necessarily hiring new team members for their resume but their ability to complement the team.<br><br>
 
 After some adaption time there was a huge difference in the team performance that led to winning the championship. All the disadvantages from before disappeared:
 * The team's ability to deliver is equal to the entire team's ability to deliver
